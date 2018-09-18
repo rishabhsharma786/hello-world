@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+hello humans!
+ hey itself rishabh sharma from agra .
